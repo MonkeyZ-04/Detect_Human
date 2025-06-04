@@ -1,0 +1,13 @@
+input_size: [416, 416]
+num_classes: 1
+train_dataset: 
+  images: data/images/
+  annotations: data/annotations/
+val_dataset: 
+  images: data/images/
+  annotations: data/annotations/
+batch_size: 16
+learning_rate: 0.001
+epochs: 50
+weights: yolov3.weights
+save_model_path: models/yolo_model.h5

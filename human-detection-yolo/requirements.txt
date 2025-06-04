@@ -1,0 +1,7 @@
+tensorflow==2.8.0
+opencv-python==4.5.3.20210929
+numpy==1.21.2
+matplotlib==3.4.3
+pyyaml==5.4.1
+scikit-learn==0.24.2
+tqdm==4.62.3
